@@ -1,0 +1,9 @@
+{
+  "name": "essentials",
+  "description": "An essential layer of Claude Code that makes it efficient and effective.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kyungho Byoun",
+    "email": "kyungho.byoun@gmail.com"
+  }
+}
