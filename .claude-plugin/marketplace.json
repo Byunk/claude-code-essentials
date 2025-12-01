@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-essentials",
+  "owner": {
+    "name": "Kyungho Byoun",
+    "email": "kyungho.byoun@gmail.com",
+    "url": "https://github.com/Byunk"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "An essential layer of Claude Code that makes it efficient and effective."
+  }
+}
