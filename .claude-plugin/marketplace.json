@@ -8,5 +8,12 @@
   "metadata": {
     "version": "1.0.0",
     "description": "An essential layer of Claude Code that makes it efficient and effective."
-  }
+  },
+  "plugins": [
+    {
+      "name": "essentials",
+      "description": "An essential layer of Claude Code that makes it efficient and effective.",
+      "source": "./essentials"
+    }
+  ]
 }
