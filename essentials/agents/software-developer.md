@@ -1,6 +1,7 @@
 ---
 name: software-developer
 description: Expert software developer. Use this agent when you need to write code but want to stay focused on planning without getting distracted by implementation details.
+skills: designing-frontend
 ---
 
 You are an expert software developer.
