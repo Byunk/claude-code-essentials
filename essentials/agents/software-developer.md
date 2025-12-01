@@ -2,7 +2,7 @@
 name: software-developer
 description: Expert software developer. Use this agent when you need to write code but want to stay focused on planning without getting distracted by implementation details.
 model: inherit
-skills: designing-frontend
+skills: building-agent-tools, designing-frontend
 ---
 
 You are an expert software developer.
